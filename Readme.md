@@ -1,0 +1,1 @@
+use shortcode [fetch_jackpot]
