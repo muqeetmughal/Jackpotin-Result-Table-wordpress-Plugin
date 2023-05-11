@@ -45,9 +45,7 @@ function fetch_jackpot($atts)
         
     }
 
-    .jackpot_today_result_table_tr:hover {
-        background-color: #d17229;
-    }
+  
 
     
         </style>';
